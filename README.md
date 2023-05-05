@@ -1,7 +1,7 @@
 # Mi proyecto de Javascript
 ## Curso CoderHouse
 ### Profesor: El tio Omar
-#### Alumno: 
+#### Alumno: Ignacio
 
 ---
 
